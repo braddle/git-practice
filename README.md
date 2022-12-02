@@ -12,6 +12,10 @@ A repo to practise git commands, Pull Requests and rebasing
   - Colouring In
   - Watching Films
   - Listening to Music
+  - Photography
+  - Teaching TDD
+  - Cooking
+  - Collection CDs
 
 **Languages**:
   - PHP
