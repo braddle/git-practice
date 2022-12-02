@@ -7,6 +7,12 @@ A repo to practise git commands, Pull Requests and rebasing
 
 **Location**: London
 
+**Hobbies**:
+  - Reading
+  - Colouring In
+  - Watching Films
+  - Listening to Music
+
 **Languages**:
   - PHP
   - Java
